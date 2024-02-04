@@ -45,13 +45,19 @@ I am QA engineer, mostly web and mobile, but I like to learn something new.
   
 </div>
 
+
+
+<div>
+  # Test Artifacts:
+  
+[Postman](https://github.com/kastusqa/Postman)  
+
+   
+</div>
+
 ---
 
 
 - 📫 You can text me:  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.kastuspanda@gmail.com)
 
 ---
-<div>
-  # Test Artifacts 
- <[Postman](https://github.com/kastusqa/Postman)>&nbsp
-</div>
