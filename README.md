@@ -51,7 +51,7 @@ I am QA engineer, mostly web and mobile, but I like to learn something new.
   
   # Test Artifacts:
   
--[Postman](https://github.com/kastusqa/Postman)  
+- [Postman](https://github.com/kastusqa/Postman)  
 
    
 </div>
